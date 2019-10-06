@@ -1,0 +1,96 @@
+Exec: 0 Alg: 0 Size: 10  Window: 2
+Erro:  0.20476320954203897
+
+
+Exec: 1 Alg: 0 Size: 50 Window: 2
+Erro:  0.27634588779700797
+
+
+Exec: 2 Alg: 0 Size: 100 Window: 2
+Erro:  0.2869785999488343
+
+
+Exec: 3 Alg: 0 Size: 300 Window: 2
+Erro:  0.2903761353368646
+
+
+Exec: 4 Alg: 0 Size: 10 Window: 5
+Erro:  0.2617761158514321
+
+
+Exec: 5 Alg: 0 Size: 50 Window: 5
+Erro:  0.3098384166523586
+
+
+Exec: 6 Alg: 0 Size: 100 Window: 5
+Erro:  0.31875563769285015
+
+
+Exec: 7 Alg: 0 Size: 300 Window: 5
+Erro:  0.31545074662678313
+
+
+Exec: 8 Alg: 0 Size: 10 Window: 10
+Erro:  0.29427563943360824
+
+
+Exec: 9 Alg: 0 Size: 50 Window: 10
+Erro:  0.33511682373405005
+
+
+Exec: 10 Alg: 0 Size: 100 Window: 10
+Erro:  0.33751694005064165
+
+
+Exec: 11 Alg: 0 Size: 300 Window: 10
+Erro:  0.33709973056905707
+
+
+Exec: 12 Alg: 1 Size: 10  Window: 2
+Erro:  0.14210703559661236
+
+
+Exec: 13 Alg: 1 Size: 50 Window: 2
+Erro:  0.22531428161337552
+
+
+Exec: 14 Alg: 1 Size: 100 Window: 2
+Erro:  0.25914187979330533
+
+
+Exec: 15 Alg: 1 Size: 300 Window: 2
+Erro:  0.3051277067905244
+
+
+Exec: 16 Alg: 1 Size: 10 Window: 5
+Erro:  0.1473230571076388
+
+
+Exec: 17 Alg: 1 Size: 50 Window: 5
+Erro:  0.23242848244026254
+
+
+Exec: 18 Alg: 1 Size: 100 Window: 5
+Erro:  0.2667765601364307
+
+
+Exec: 19 Alg: 1 Size: 300 Window: 5
+Erro:  0.33431945179494954
+
+
+Exec: 20 Alg: 1 Size: 10 Window: 10
+Erro:  0.15630007275827984
+
+
+Exec: 21 Alg: 1 Size: 50 Window: 10
+Erro:  0.24047563183108447
+
+
+Exec: 22 Alg: 1 Size: 100 Window: 10
+Erro:  0.2782633101021789
+
+
+Exec: 23 Alg: 1 Size: 300 Window: 10
+Erro:  0.36488825093233146
+
+
